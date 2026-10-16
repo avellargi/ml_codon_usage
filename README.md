@@ -3,7 +3,7 @@
 <h1 align="center">Viés de uso de códons como preditor do grupo taxonômico: uma comparação de algoritmos de aprendizado de máquina</h1>
 
 <p align="center">
-  <img src="imagens/headernova.png" />
+  <img src="images/header (3).png" />
 </p>
 
 Este repositório contém o código-fonte desenvolvido para a Entrega Final (denominada no sistema de gamificação 'Tiamat') da disciplina "Aprendizado de Máquina" do segundo semestre do Bacharelado em Ciência e Tecnologia da Ilum. O objetivo do trabalho é investigar se é possível identificar o grupo taxonômico de um organismo a partir do seu viés de uso de códons, isto é, da frequência com que cada um dos 64 códons aparece em seu genoma [1]. Para isso, foram comparados cinco algoritmos de aprendizado de máquina (regressão logística, k-vizinhos mais próximos, árvore de decisão, floresta aleatória e [quinto algoritmo]) e um modelo baseline, utilizando o conjunto de dados "Codon Usage", disponível no UCI Machine Learning Repository. Os hiperparâmetros de cada algoritmo foram otimizados com a biblioteca Optuna, e o desempenho dos modelos foi avaliado por validação cruzada e, ao final, em um conjunto de teste separado.
