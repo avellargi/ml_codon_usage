@@ -61,4 +61,7 @@ Daniel Roberto Cassar - Docente Pesquisador da Ilum – Escola de Ciência. Dout
 
 P.S. As referências estão ordenadas em ordem de aparição no documento.
 
+## Brasão
+<img src= "images/brasao.png"/>
+
 <img src= "images/imagem (2).png"/>
