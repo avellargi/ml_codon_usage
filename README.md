@@ -43,6 +43,7 @@ Os modelos foram analisados por meio das seguintes métricas:
 
 ## Acesso ao código
 As informações detalhadas do projeto, incluindo a fundamentação teórica, as etapas de pré-processamento dos dados, a construção e treinamento dos modelos de aprendizado de máquina, a avaliação de desempenho e a análise dos resultados obtidos, estão disponíveis no repositório em: [código](https://github.com/avellargi/ml_codon_usage/tree/main/code)
+Os estudos do Optuna estão disponíveis em: [optuna](https://github.com/avellargi/ml_codon_usage/tree/main/optuna)
 
 ## Autoria
 | <img src="https://github.com/avellargi.png" width=115><br><sub>[Giovanna Avellar Machado](https://github.com/avellargi)</sub> |
